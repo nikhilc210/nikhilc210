@@ -15,7 +15,7 @@
 
 ---
 
-<img align="right" width="42%" src="https://github-readme-stats.vercel.app/api?username=nikhilc210&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6EE7F7&icon_color=6EE7F7&text_color=CDD9E5&cache_seconds=1800"/>
+<img align="right" width="42%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nikhilc210&theme=tokyonight"/>
 
 ### `$ cat about.json`
 
