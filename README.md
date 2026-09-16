@@ -153,24 +153,6 @@ Recreates the Google Forms experience (fields, file uploads, validation, submit 
 
 ---
 
-## 🏆 Trophies
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=nikhilc210&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/nikhilc210)
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nikhilc210&bg_color=0D1117&color=6EE7F7&line=6EE7F7&point=FFFFFF&area=true&area_color=6EE7F720&hide_border=true&radius=8)](https://github.com/nikhilc210)
-
-</div>
-
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,12,30&height=100&section=footer&animation=twinkling" width="100%"/>
 </div>
